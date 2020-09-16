@@ -2,7 +2,7 @@
 
 #### Eu Jin Lee [GitHub](https://github.com/missingNA) [LinkedIn](https://www.linkedin.com/in/eeujinlee/)
 
-<img src="../images/podcast_comp.png" width="600"/>
+<img src="./images/podcast_comp.png" width="600"/>
 
 ## Problem Statement
 
@@ -95,7 +95,7 @@ In this project, a podcast recommendation system was build based on the idea of 
 
 Cosine similarity is a metric used to determine how similar two entities are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space.
 
-<img src="../images/cosine_sim.png" width="500"/>
+<img src="./images/cosine_sim.png" width="500"/>
 
 And we can see in the results, that it works pretty well in generating similar podcast recommendations. another valuable lesson that was learnt from this project was learning to scale up a recommendation system and dealing with large amounts of data. A common challenge faced was an issue with overloading RAM which caused the kernel to crash. Hence, experimentations and investigating the form in which the data is being fed through the system had to be carefully observed and unpacked to avoid the issue from arising.  
 
